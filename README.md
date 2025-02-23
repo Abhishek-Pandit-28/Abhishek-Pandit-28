@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK PANDIT</h1>
 <h3 align="center">A passionate Embedded Developer from India</h3>
 
-- 🔭 I’m currently working on **Engine Control System**
+<h3 align="left">🧑‍💻 I’m currently working on **Engine Control System**</h3>
 
-- 🌱 I’m currently Working With **C, C++ & Python**
+<h3 align="left">⚙️ I’m currently Working With **C, C++ & Python**</h3>
 
-- 👯 I’m looking to collaborate on **Embedded Projects**
+<h3 align="left">👯 I’m looking to collaborate on **Embedded Projects**</h3>
 
-- 📫 How to reach me **abhishekpandit28@gmail.com**
+<h3 align="left">📫 How to reach me **abhishekpandit28@gmail.com**</h3>
 
-- ⚡ Fun fact **Coder in day, Gamer @ night**
+<h3 align="left">⚡ Fun fact **Coder in day, Gamer @ night**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
